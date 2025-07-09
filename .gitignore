@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+chatbot_agent.log
+# Ignore IDE/editor files
+*.swp
+*.swo
+*.idea/
+*.vscode/
